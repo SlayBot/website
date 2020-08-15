@@ -1,0 +1,97 @@
+[[redirects]]
+  from = "/support"
+  to = "https://discord.com/invite/7a5kJC8"
+  status = 301
+  force = true
+  headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
+
+[[redirects]]
+  from = "/join"
+  to = "https://discord.com/invite/7a5kJC8"
+  status = 301
+  force = true
+  headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
+
+[[redirects]]
+  from = "/discord"
+  to = "https://discord.com/invite/7a5kJC8"
+  status = 301
+  force = true
+  headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
+
+[[redirects]]
+  from = "/status"
+  to = "https://status.slaybot.xyz"
+  status = 301
+  force = true
+  headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
+
+[[redirects]]
+  from = "/uptime"
+  to = "https://uptime.slaybot.xyz"
+  status = 301
+  force = true
+  headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
+
+[[redirects]]
+  from = "/blog"
+  to = "https://blog.slaybot.xyz"
+  status = 301
+  force = true
+  headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
+
+[[redirects]]
+  from = "/invite"
+  to = "https://discord.com/oauth2/authorize?client_id=582237912423465019&scope=bot&permissions=1544416502"
+  status = 301
+  force = true
+  headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
+
+[[redirects]]
+  from = "/add"
+  to = "https://discord.com/oauth2/authorize?client_id=582237912423465019&scope=bot&permissions=1544416502"
+  status = 301
+  force = true
+  headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
+
+[[redirects]]
+  from = "/trello"
+  to = "https://trello.com/b/udjGFpfB/slaybot"
+  status = 301
+  force = true
+  headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
+
+[[redirects]]
+  from = "/twitter"
+  to = "https://twitter.com/SlayBotDiscord"
+  status = 301
+  force = true
+  headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
+
+[[redirects]]
+  from = "/reddit"
+  to = "https://reddit.com/r/SlayBot"
+  status = 301
+  force = true
+  headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
+
+[[redirects]]
+  from = "/arc-sw.js"
+  to = "https://arc.io/arc-sw.js"
+  status = 301
+  force = true
+  headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
+
+[[redirects]]
+  from = "/ads.txt"
+  to = "https://api.nitropay.com/v1/ads-387.txt"
+  status = 301
+  force = true
+  headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
+
+[[redirects]]
+  from = "/monitor"
+  to = "https://monitor.slaybot.xyz"
+  status = 301
+  force = true
+  headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
