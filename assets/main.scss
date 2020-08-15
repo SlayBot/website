@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+// Colors
+$blurple: #7289DA;
+$white: #fff;
+$black: #000;
+$background-color: #111217;
+$footer-background: #212329;
+$background-secondary: #181b24;
+$accent-primary: #7289da;
+
+$primary: $blurple;
+
+// Body
+$body-background-color: $background-color;
+$background: $background-color;
+
+// Navbar
+$navbar-background-color: #23272A;
+$navbar-dropdown-menu-color: #303339;
+
+html, body {
+  background-color: $background-color;
+  color: $white;
+  font-family: Poppins, sans-serif;
+}
+
+.nav-link {
+  font-family: 'Poppins', sans-serif;
+}
+
+.is-hidden-mobile {display: block;}
+.is-hidden-desktop {display: none;}
+
+@media screen and (max-width: 768px) {
+
+.is-hidden-mobile {display: none;}
+.is-hidden-desktop {display: block;}
+
+}
+
+.btn {
+  border-radius: 5px !important;
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+}
+
+.btn-primary {
+  background-color: #7289DA !important
+}
+
+.btn-secondary {
+  background-color: #2C2F33 !important
+}
+
+// Import Some Things
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,900,900i');
+@import url('https://cdn.materialdesignicons.com/2.5.94/css/materialdesignicons.min.css');
+@import url('https://use.fontawesome.com/releases/v5.8.1/css/all.css');
