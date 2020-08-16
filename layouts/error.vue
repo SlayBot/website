@@ -28,7 +28,7 @@
 	export default {
 		props: ["error"],
 		head: {
-			title: `Error | SlayBot`
+			title: `Error`
 		},
 		mounted() {
 			console.log(this.$props.error);

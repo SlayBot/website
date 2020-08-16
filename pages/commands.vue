@@ -1,5 +1,10 @@
 <template>
 </template>
 
-<style scoped>
-</style>
+<script>
+export default {
+  head: {
+    title: 'Commands',
+  },
+}
+</script>

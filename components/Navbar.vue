@@ -1,5 +1,5 @@
 <template>
-<div>
+<div style="margin-bottom:30px">
   <b-navbar toggleable="lg" type="dark" variant="info">
     <div class="container">
       <b-navbar-brand href="#"><img src="https://cdn.slaybot.xyz/assets/logos/slaybot.svg" width="100" style="margin-top:2px"></b-navbar-brand>
@@ -9,20 +9,21 @@
       <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav>
             <b-nav-item to="/">
-                Home
+              Home
             </b-nav-item>
             <b-nav-item to="/commands">
-                Commands
+              Commands
             </b-nav-item>
-            <b-nav-item to="/changelog">
-                Changelog
+            <b-nav-item to="/faq">
+              FAQ
             </b-nav-item>
             <b-nav-item to="/stats">
-                Stats
+              Stats
             </b-nav-item>
           <b-nav-item-dropdown text="More">
             <b-dropdown-item href="/discord"><i class="fab fa-discord"></i> Discord</b-dropdown-item>
             <b-dropdown-item href="/trello"><i class="fas fa-clipboard-check"></i> Trello</b-dropdown-item>
+            <b-dropdown-item to="/changelog"><i class="fas fa-clipboard-check"></i> Changelog</b-dropdown-item>
             <b-dropdown-item href="/status"><i class="fas fa-server"></i> Status</b-dropdown-item>
             <b-dropdown-item href="/twitter"><i class="fab fa-twitter"></i> Twitter</b-dropdown-item>
             <b-dropdown-item href="/reddit"><i class="fab fa-reddit"></i> Reddit</b-dropdown-item>

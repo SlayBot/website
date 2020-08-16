@@ -4,7 +4,11 @@
 </template>
 
 <script>
-export default {}
+export default {
+  head: {
+    title: 'Home',
+  },
+}
 </script>
 
 <style>

@@ -6,7 +6,8 @@
 
 <script>
 export default {
-  name: 'Stats',
-  head: { title: 'Stats | SlayBot' }
+  head: {
+    title: 'Stats',
+  },
 }
 </script>
