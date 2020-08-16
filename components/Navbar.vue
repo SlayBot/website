@@ -1,5 +1,5 @@
 <template>
-<div style="margin-bottom:30px">
+<div>
   <b-navbar toggleable="lg" type="dark" variant="info">
     <div class="container">
       <b-navbar-brand href="#"><img src="https://cdn.slaybot.xyz/assets/logos/slaybot.svg" width="100" style="margin-top:2px"></b-navbar-brand>

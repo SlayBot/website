@@ -1,20 +1,20 @@
 [[redirects]]
   from = "/support"
-  to = "https://discord.com/invite/7a5kJC8"
+  to = "https://discord.com/invite/NSB5smK"
   status = 301
   force = true
   headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
 
 [[redirects]]
   from = "/join"
-  to = "https://discord.com/invite/7a5kJC8"
+  to = "https://discord.com/invite/NSB5smK"
   status = 301
   force = true
   headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
 
 [[redirects]]
   from = "/discord"
-  to = "https://discord.com/invite/7a5kJC8"
+  to = "https://discord.com/invite/NSB5smK"
   status = 301
   force = true
   headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
@@ -42,14 +42,14 @@
 
 [[redirects]]
   from = "/invite"
-  to = "https://discord.com/oauth2/authorize?client_id=582237912423465019&scope=bot&permissions=1544416502"
+  to = "https://discord.com/oauth2/authorize?client_id=743545254208208939&permissions=268823670&scope=bot"
   status = 301
   force = true
   headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
 
 [[redirects]]
   from = "/add"
-  to = "https://discord.com/oauth2/authorize?client_id=582237912423465019&scope=bot&permissions=1544416502"
+  to = "https://discord.com/oauth2/authorize?client_id=743545254208208939&permissions=268823670&scope=bot"
   status = 301
   force = true
   headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
