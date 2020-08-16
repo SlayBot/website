@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container" style="margin-top:30px">
     <h2>Frequently Asked Questions</h2><br>
     <b-card no-body class="mb-3">
       <b-card-header header-tag="header" class="p-0" role="tab">
