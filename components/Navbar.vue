@@ -1,6 +1,6 @@
 <template>
 <div>
-  <b-navbar toggleable="lg" type="dark" variant="info">
+  <b-navbar toggleable="lg" type="dark" variant="dark">
     <div class="container">
       <b-navbar-brand href="#"><img src="https://cdn.slaybot.xyz/assets/logos/slaybot.svg" width="100" style="margin-top:2px"></b-navbar-brand>
 
