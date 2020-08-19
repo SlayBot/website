@@ -645,3 +645,38 @@ svg {
 .tab-content, .tabs {
   background-color:#181b24;
 }
+
+.card-changelog .card-content-changelog .card-title-changelog {
+  display: block;
+  line-height: 32px;
+  margin-bottom: 8px;
+}
+
+.card-changelog .card-title-changelog {
+  font-size: 24px;
+  font-weight: 300;
+}
+
+.card-changelog .card-content-changelog {
+  padding: 24px;
+  border-radius: 0 0 2px 2px;
+}
+
+.white-text {
+  color: #fff !important;
+}
+
+.discord-text.text-greyple {
+  color: #99aab5 !important;
+}
+
+.card-changelog {
+  background-color: #2c2f33;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14),
+    0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+  margin-bottom: 3%;
+}
+
+.cl-desc {
+  margin-bottom: 3%;
+}
