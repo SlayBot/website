@@ -5,7 +5,7 @@
       <b-card-header header-tag="header" class="p-0" role="tab">
         <b-button block v-b-toggle.accordion-1 variant="dark">WHY DOES SLAYBOT NOT RESPOND TO ANY COMMANDS?</b-button>
       </b-card-header>
-      <b-collapse id="accordion-1" visible accordion="my-accordion" role="tabpanel">
+      <b-collapse id="accordion-1" accordion="my-accordion" role="tabpanel">
         <b-card-body style="background-color:#181b24">
           <b-card-text>1. Make sure that SlayBot has the <code>Send Messages</code> permission as well as the <code>Embed Links</code> permission and that it has access to your channel.</b-card-text>
           <b-card-text>2. Are you typing the command correctly? View the command list to check the usage.</b-card-text>
