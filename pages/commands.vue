@@ -4,14 +4,14 @@
     <h4 class="alert-heading">Under Construction!</h4>
     <p>
       This page is currently under construction and will be developed actively to make this page ready for you to explore!
-      On mobile phones, there is some little issues with the category thing, it will be fixed soon
     </p>
     <hr>
     <p class="mb-0">
-      Please use the <code>help</code> command on SlayBot to see every command.
+      <b>Note</b>: Please use the <code>help</code> command on SlayBot to see every command for now.
     </p>
   </b-alert>
 
+<!--
   <b-card no-body>
     <b-tabs pills card vertical nav-wrapper-class="w-30">
       <b-tab title="Core" active>
@@ -31,6 +31,7 @@
       </b-tab>
     </b-tabs>
   </b-card>
+-->
 </div>
 </template>
 

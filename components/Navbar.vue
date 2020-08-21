@@ -1,7 +1,5 @@
 <template>
-<div>
-  <b-navbar toggleable="lg" type="dark" variant="dark">
-    <div class="container">
+  <b-navbar toggleable="lg" type="dark" variant="custom">
       <b-navbar-brand href="#"><img src="https://cdn.slaybot.xyz/assets/logos/slaybot.svg" width="100" style="margin-top:2px"></b-navbar-brand>
 
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
@@ -36,7 +34,5 @@
           <b-nav-item href="/support"><i class="far fa-question-circle"></i> Support Server</b-nav-item>
         </b-navbar-nav>
       </b-collapse>
-    </div>
   </b-navbar>
-</div>
 </template>
