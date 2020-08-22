@@ -4,6 +4,16 @@
   <div class="col s12 changelog">
     <div class="card-changelog">
         <div class="card-content-changelog white-text" style="margin:1,2%">
+            <span class="card-title-changelog" style="margin-bottom: 0;">SlayBot Version 0.2.1</span>
+            <span class="discord-text text-greyple" style="margin-bottom: 8px; display: block;">22nd of August 2020</span>
+            <p><i class="fas fa-edit"></i> Updates</p>
+            <p>
+            • Updated to discord.js v12.3.1
+            </p>
+        </div>
+    </div>
+    <div class="card-changelog">
+        <div class="card-content-changelog white-text" style="margin:1,2%">
             <span class="card-title-changelog" style="margin-bottom: 0;">SlayBot Version 0.2.0</span>
             <span class="discord-text text-greyple" style="margin-bottom: 8px; display: block;">22nd of August 2020</span>
             <p><i class="fas fa-plus"></i> Added</p>
@@ -33,7 +43,7 @@
         <div class="card-content-changelog white-text" style="margin:1,2%">
             <span class="card-title-changelog" style="margin-bottom: 0;">SlayBot Version 0.1.4</span>
             <span class="discord-text text-greyple" style="margin-bottom: 8px; display: block;">18th of August 2020</span>
-            <p><i class="fas fa-edit"></i> Updated</p>
+            <p><i class="fas fa-edit"></i> Updates</p>
             <p>
             • Added Environment field to the <code>stats</code> command
             </p>
