@@ -27,11 +27,11 @@
 
     <b-card no-body class="mb-3">
       <b-card-header header-tag="header" class="p-0" role="tab">
-        <b-button disabled block v-b-toggle.accordion-3 variant="dark">How can i change the prefix? (soon)</b-button>
+        <b-button block v-b-toggle.accordion-3 variant="dark">How can i change the prefix?</b-button>
       </b-card-header>
       <b-collapse id="accordion-3" accordion="my-accordion" role="tabpanel">
         <b-card-body style="background-color:#181b24">
-          <b-card-text>{{ text }}</b-card-text>
+          <b-card-text>SlayBot doesn't have a prefix configuration system yet. We are developing one in future!</b-card-text>
         </b-card-body>
       </b-collapse>
     </b-card>

@@ -5,12 +5,16 @@
       <div class="css-a77b4f">
         <div class="css-7e3rlo" style="margin-top: 4.5%;">
           <h1 class="css-1aq9v0y">SlayBot</h1>
-          <p class="css-1fwfe0p">SlayBot is a multifunctional Discord bot with XP, moderating and logging features!</p>
+          <p class="css-1fwfe0p">SlayBot is a multifunctional Discord bot with cool commands for your server!</p>
           <div class="css-k008qs">
-            <a href="https://discordapp.com/oauth2/authorize?&amp;client_id=582237912423465019&amp;scope=bot&amp;permissions=-1" target="_blank" rel="noopener noreferrer">
-              <button type="button" class="btn blurple invite-button bold-6 btn-primary">
-                <img width="25px" src="https://cdn.slaybot.xyz/assets/logos/discord.svg" alt="discord logo" />
+            <a href="/invite" target="_blank" rel="noopener noreferrer">
+              <button type="button" class="btn blurple invite-button btn-primary">
                 Invite to Discord
+              </button>
+            </a>
+            <a href="/join" target="_blank" rel="noopener noreferrer" style="margin-left:1%">
+              <button type="button" class="btn blurple invite-button btn-primary">
+                Discord Server
               </button>
             </a>
           </div>
