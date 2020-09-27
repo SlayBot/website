@@ -3,7 +3,7 @@
     <h2>Frequently Asked Questions</h2><br>
     <b-card no-body class="mb-3">
       <b-card-header header-tag="header" class="p-0" role="tab">
-        <b-button block v-b-toggle.accordion-1 variant="dark">WHY DOES SLAYBOT NOT RESPOND TO ANY COMMANDS?</b-button>
+        <b-button block v-b-toggle.accordion-1 variant="dark">Why doesn't SlayBot respond to any commands?</b-button>
       </b-card-header>
       <b-collapse id="accordion-1" accordion="my-accordion" role="tabpanel">
         <b-card-body style="background-color:#181b24">
@@ -31,7 +31,8 @@
       </b-card-header>
       <b-collapse id="accordion-3" accordion="my-accordion" role="tabpanel">
         <b-card-body style="background-color:#181b24">
-          <b-card-text>SlayBot doesn't have a prefix configuration system yet. We are developing one in future!</b-card-text>
+          <b-card-text>Use the <code>prefix</code> command.</b-card-text>
+          <img src="https://cdn.slaybot.xyz/assets/web/Screenshot_73.png">
         </b-card-body>
       </b-collapse>
     </b-card>

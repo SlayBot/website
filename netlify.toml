@@ -42,14 +42,14 @@
 
 [[redirects]]
   from = "/invite"
-  to = "https://discord.com/oauth2/authorize?client_id=743545254208208939&permissions=268823670&scope=bot"
+  to = "https://discord.com/oauth2/authorize?client_id=743545254208208939&scope=bot&permissions=388102"
   status = 301
   force = true
   headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
 
 [[redirects]]
   from = "/add"
-  to = "https://discord.com/oauth2/authorize?client_id=743545254208208939&permissions=268823670&scope=bot"
+  to = "https://discord.com/oauth2/authorize?client_id=743545254208208939&scope=bot&permissions=388102"
   status = 301
   force = true
   headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}

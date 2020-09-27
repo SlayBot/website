@@ -19,7 +19,7 @@
             </a>
           </div>
         </div>
-        <div class="is-hidden-mobile"><img src="https://cdn.slaybot.xyz/assets/logos/slaybotlogo.png" alt="preview" class="css-16qe6n6" style="width: 60%;" /></div>
+        <div class="is-hidden-mobile"><img src="https://cdn.slaybot.xyz/assets/logos/slaybotlogo.png" alt="preview" class="css-16qe6n6" style="width: 60%;border-radius:15%" /></div>
       </div>
     </div>
   </div>
