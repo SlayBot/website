@@ -1,5 +1,10 @@
 <template>
   <div id="footer">
+    <div style="height: 150px; overflow: hidden;">
+  <svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;">
+    <path d="M0.00,49.98 C149.99,150.00 349.20,-49.98 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none;fill: #090a0c;"></path>
+  </svg>
+</div>
     <footer class="footer footer-big">
       <div class="container">
         <div class="content">
@@ -20,7 +25,7 @@
             </div>
             <div class="col-lg-2 col-6">
               <div class="column">
-                <h4 class="mt-3">Company</h4>
+                <h4 class="mt-3">Product</h4>
                 <ul>
                   <li>
                     <a href="/blog">News & Updates</a>
@@ -33,10 +38,10 @@
             </div>
             <div class="col-lg-2 col-6">
               <div class="column">
-                <h4 class="mt-3">Support</h4>
+                <h4 class="mt-3">Developers</h4>
                 <ul>
                   <li>
-                    <a href="/support">Discord Server</a>
+                    <a href="https://github.com/slaybot">GitHub</a>
                   </li>
                   <li>
                     <router-link to="/knowledgebase/">Knowledgebase</router-link>
@@ -53,9 +58,6 @@
                   </li>
                   <li>
                     <a href="/support">Support</a>
-                  </li>
-                  <li>
-                    <a href="/opensource">Open Source</a>
                   </li>
                   <li>
                     <a href="/docs">Documentation</a>
