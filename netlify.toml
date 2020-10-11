@@ -95,3 +95,10 @@
   status = 301
   force = true
   headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
+
+[[redirects]]
+  from = "/vote"
+  to = "https://top.gg/bot/743545254208208939/vote"
+  status = 301
+  force = true
+  headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
