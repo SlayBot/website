@@ -1,20 +1,20 @@
 [[redirects]]
   from = "/support"
-  to = "https://discord.com/invite/NSB5smK"
+  to = "https://discord.gg/sr9pnG4W3D"
   status = 301
   force = true
   headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
 
 [[redirects]]
   from = "/join"
-  to = "https://discord.com/invite/NSB5smK"
+  to = "https://discord.gg/sr9pnG4W3D"
   status = 301
   force = true
   headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
 
 [[redirects]]
   from = "/discord"
-  to = "https://discord.com/invite/NSB5smK"
+  to = "https://discord.gg/sr9pnG4W3D"
   status = 301
   force = true
   headers = {X-From = "SlayBot Discord Bot | slaybot.xyz"}
